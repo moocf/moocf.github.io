@@ -1,15 +1,17 @@
-A set of competitive programming submissions.
+A set of online courses and competitive programming submissions.
 
 <br>
 
-| 💽 Competitions  | ❌                         | ❌             |
-| --------------- | ------------------------- | ------------- |
-| 💽 [hello-world] | 💽 [programvare-promoteur] | 💽 [code-rage] |
-| 💽 [open-soft]   | 💽 [amdocs-programming]    | 💽 [codechef]  |
+| 🧑‍💻 Online courses  | 💽 Competitions            | ❌             |
+| ----------------- | ------------------------- | ------------- |
+| 🧑‍💻 [cybersecurity] | ❌                         | ❌             |
+| 💽 [hello-world]   | 💽 [programvare-promoteur] | 💽 [code-rage] |
+| 💽 [open-soft]     | 💽 [amdocs-programming]    | 💽 [codechef]  |
 
-[hello-world]: https://github.com/ionicf/hello-world
-[programvare-promoteur]: https://github.com/ionicf/programvare-promoteur
-[code-rage]: https://github.com/ionicf/code-rage
-[open-soft]: https://github.com/ionicf/open-soft
-[amdocs-programming]: https://github.com/ionicf/amdocs-programming
-[codechef]: https://github.com/ionicf/codechef
+[cybersecurity]: https://github.com/moocf/introduction-to-cybersecurity
+[hello-world]: https://github.com/moocf/hello-world
+[programvare-promoteur]: https://github.com/moocf/programvare-promoteur
+[code-rage]: https://github.com/moocf/code-rage
+[open-soft]: https://github.com/moocf/open-soft
+[amdocs-programming]: https://github.com/moocf/amdocs-programming
+[codechef]: https://github.com/moocf/codechef

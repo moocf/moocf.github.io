@@ -272,6 +272,7 @@ There's more than what is listed here, for that you may [visit the org](https://
 
 [![](https://img.youtube.com/vi/LP7a-kLBZhw/maxresdefault.jpg)](https://www.youtube.com/watch?v=LP7a-kLBZhw)
 [![ORG](https://img.shields.io/badge/org-wolfram77-green?logo=Org)](https://wolfram77.github.io)
+![](https://ga-beacon.deno.dev/G-G1E8HNDZYY:v51jklKGTLmC3LAZ4rJbIQ/wolfram77.github.io)
 
 <!-- [![](https://img.youtube.com/vi/Th4E-0VFaEA/maxresdefault.jpg)](https://www.youtube.com/watch?v=Th4E-0VFaEA) -->
 <!-- [![](https://img.youtube.com/vi/LN0qG-i1iT0/maxresdefault.jpg)](https://www.youtube.com/watch?v=LN0qG-i1iT0) -->
